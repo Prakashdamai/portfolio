@@ -1,0 +1,1 @@
+import{R as e}from"./index-CUJb5ABV.js";const a=["Html","Css","Javascript","React.js","Node.js","Git & GitHub"];function l(){return e.createElement("div",null,e.createElement("h2",{className:"h2 text-center"},"My Skills"),e.createElement("div",{className:"mt-8 flex flex-wrap gap-4 justify-center"},a.map(t=>e.createElement("span",{key:t,className:"tag"},t))))}export{l as default};
