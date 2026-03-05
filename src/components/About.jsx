@@ -12,8 +12,8 @@ export default function About() {
       <div>
         <h2 className="h2">About Me</h2>
         <p className="text-gray-300 leading-relaxed">
-          Full Stack Developer <span className="text-accent font-semibold"></span><br /><br />
-          I’m a Full Stack Developer in progress, currently focused on Python for backend development.  
+          Frontend Developer <span className="text-accent font-semibold"></span><br /><br />
+          I’m a Frontend Developer in progress, currently focused on Python, django for backend development.  
 So far, I’ve built projects using HTML, CSS, JavaScript, and React, and I’m excited to keep expanding my skills toward full stack web applications.
 
         </p>
