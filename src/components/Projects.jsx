@@ -1,6 +1,12 @@
 import React from 'react'
 
 const projects = [
+  {
+    title: "Weather App (HTML, CSS, JS)",
+    description: "A simple weather app built with HTML, CSS, and JavaScript using the OpenWeather API.",
+    github: "https://github.com/Prakashdamai/weather-app",
+    demo: "https://prakashdamai.github.io/weather-app/"
+  },
   
 ]
 
