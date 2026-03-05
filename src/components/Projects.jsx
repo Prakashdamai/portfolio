@@ -1,26 +1,7 @@
 import React from 'react'
 
 const projects = [
-  {
-    title: "Weather App (HTML, CSS, JS)",
-    description: "A simple weather app built with HTML, CSS, and JavaScript using the OpenWeather API.",
-    github: "https://github.com/Prakashdamai/weather-app",
-    demo: "https://prakashdamai.github.io/weather-app/"
-  },
-  {
-    title: "Todo List App",
-    description: "A simple and interactive Todo List built using HTML, CSS, and JavaScript.",
-    github: "https://github.com/Prakashdamai/todo-list",
-    demo: "https://prakashdamai.github.io/todo-list/",
-    
-  },
   
-  {
-    title: "TextUtils",
-    description: "A React-based text utility app that lets users analyze and modify text (e.g., word count, case conversion, copy to clipboard).",
-    github: "https://github.com/Prakashdamai/TextUtils",
-    demo: "https://prakashdamai.github.io/TextUtils/"
-},
 ]
 
 export default function Projects() {
