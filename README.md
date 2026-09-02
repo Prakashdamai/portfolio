@@ -32,7 +32,7 @@ Styled to match the dark theme + pink accent layout you requested.
 ---
 
 ## 🚀 Deployment
-- Live Site 👉 [Portfolio Website](https://your-portfolio.netlify.app)  
+- Live Site 👉 [Portfolio Website]  
 - Source Code 👉 [GitHub Repo](https://github.com/Prakashdamai/portfolio)  
 
 ---
