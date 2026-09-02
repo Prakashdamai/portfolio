@@ -4,7 +4,7 @@ export default function About() {
   return (
     <div className="grid md:grid-cols-2 gap-10 items-start">
       <img
-        src='/Profile/Profile.jpg'
+        src='/profile.jpg'
         alt="Prakash portrait"
         loading="lazy"
         className="rounded-2xl border border-[#222] object-cover w-full"
